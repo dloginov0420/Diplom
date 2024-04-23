@@ -9,7 +9,7 @@
 
 #### 1.1 Виртуальные машины.
 
-  - bastion-hostt
+  - bastion-host
   - elast
   - kibana
   - web-server-nginx-2
@@ -164,7 +164,6 @@
 
 ![99_Snapshot_1](https://github.com/lantsevrot/Diplom/blob/main/img/snapshot.png)
 
-![99_Snapshot_2](https://github.com/lantsevrot/Diplom/blob/main/img/snapshot2.png)
 
 </details>
 
