@@ -33,7 +33,7 @@
 <details>
 <summary> Скриншот(-ы) </summary>
 
-![09_20SG](https://github.com/lantsevrot/Diplom/blob/main/img/fdfd.png)
+![09_20SG](https://github.com/lantsevrot/Diplom/blob/main/img/fdfd5.png)
 
 </details>
 
